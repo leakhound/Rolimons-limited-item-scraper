@@ -1,4 +1,7 @@
 # Rolimons limited item scraper
+# i made this <3
+
+# https://discord.gg/npXseFWEwX
 
 try:
     import rolimons
